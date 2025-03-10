@@ -1,6 +1,6 @@
 describe changes
 
-checklist (check if applicable):
+reminders (check if done or if not applicable):
 - [ ] updated changelog
 - [ ] updated readme
 - [ ] updated version
