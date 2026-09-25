@@ -27,9 +27,4 @@ If in doubt, choose in favor of transparency: add the attribution.
 [python guidelines for using ai tools]: https://devguide.python.org/getting-started/ai-tools/#ai-tools
 -->
 
-describe changes
 
-reminders (check if done or if not applicable):
-- [ ] updated changelog
-- [ ] updated readme
-- [ ] updated version
