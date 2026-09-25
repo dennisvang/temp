@@ -17,13 +17,14 @@ If significant parts of code are *based* on one of the following, just add an in
 - code from Q&A sites like stackoverlow.com
 
 The term "significant" is, of course, vague.
-However, we trust you'll know what we're talking about.
-Some examples can be found in the [linux generated-content guidelines].
+However, we trust you're smart enough to know what we're talking about.
+Some examples can be found in the [linux generated-content guidelines] and [python guidelines for using ai tools].
 
 If in doubt, choose in favor of transparency: add the attribution.
 
-[linux coding-assistants guidelines]: https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst#attribution -->
-[linux generated-content guidelines]: https://github.com/torvalds/linux/blob/165768bb70265b5c38cf0b73fafd75be235f8b14/Documentation/process/generated-content.rst 
+[linux coding-assistants guidelines]: https://github.com/torvalds/linux/blob/165768bb70265b5c38cf0b73fafd75be235f8b14/Documentation/process/coding-assistants.rst#attribution
+[linux generated-content guidelines]: https://github.com/torvalds/linux/blob/165768bb70265b5c38cf0b73fafd75be235f8b14/Documentation/process/generated-content.rst
+[python guidelines for using ai tools]: https://devguide.python.org/getting-started/ai-tools/#ai-tools
 -->
 
 describe changes
